@@ -7,10 +7,3 @@
 🧠 Currently learning about Firebase and fully responsive UI Design.
 
 [![Mofakkharul's GitHub stats](https://github-readme-stats.vercel.app/api?username=mofakkharul-29&count_private=true&show_icon=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
-
-## 🔧 Tools & Technologies
-
-- 🐦 Flutter / Dart
-- 🔥 Firebase
-- 💻 Git & GitHub
-
