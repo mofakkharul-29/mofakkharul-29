@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi, I'm Mofakkharul Islam!👋
+👨‍💻 I'm a Flutter Developer Intern  (Full Stack).
+🚀 Currently working on a Task Manager app,
+📱 I love building mobile & full-stack apps.
+🎯 Goals: Build a complete full-stack app (Flutter + Firebase/MongoDB/Supabase) and later on Build production-ready, multi-platform apps (mobile, web, desktop).
+🧑‍🎓 Studied [Computer Science & Engineering] at the Primeasia University, Dhaka
+🧠 Currently learning about Firebase and fully responsive UI Design.
 
-<!--
-**mofakkharul-29/mofakkharul-29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Mofakkharul's GitHub stats](https://github-readme-stats.vercel.app/api?username=mofakkharul-29&count_private=true&show_icon=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
-Here are some ideas to get you started:
+## 🔧 Tools & Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🐦 Flutter / Dart
+- 🔥 Firebase
+- 💻 Git & GitHub
+
