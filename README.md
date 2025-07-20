@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Mofakkharul !
-🧑‍💻 Currently working on :  A full-featured Flutter To-Do app (mobile-first), using Firebase.<br>👯 Open to collaborating on :  Build open-source projects or full-stack apps with Flutter and Firebase.<br>🤝 Seeking help with :  Advanced Flutter animations and platform-specific UI challenges.<br>🌱 Actively learning :  Firebase integration, responsive UI design, and deploying multi-platform apps.<br>💬 Ask me about :  Flutter, Firebase, Riverpod, or UI/UX best practices.<br>⚡ Fun fact : I love exploring clean, minimal UI designs and customizing Android launchers — it's my way of mixing creativity with tech!<br>🎓 Education : Studied Computer Science & Engineering at Primeasia University, Dhaka.
+🧑‍💻 Currently working on : A full-featured Flutter To-Do app (mobile-first), using Firebase.<br>👯 Open to collaborating on : Build open-source projects or full-stack apps with Flutter and Firebase.<br>🤝 Seeking help with : Advanced Flutter animations and platform-specific UI challenges.<br>🌱 Actively learning : Firebase integration, responsive UI design, and deploying multi-platform apps.<br>💬 Ask me about : Flutter, Firebase, Riverpod, or UI/UX best practices.<br>⚡ Fun fact : I love exploring clean, minimal UI designs and customizing Android launchers — it's my way of mixing creativity with tech!<br>🎓 Education : Studied Computer Science & Engineering at Primeasia University, Dhaka.
 
 
 ## 🌐 Socials
@@ -14,7 +14,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mofakkharul-29&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 # ⏳ My Coding Activity
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=mofakkharul-29&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
@@ -24,14 +23,10 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=mofakkharul-29&icon=0&color=9)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
- 💻 Featured YouTube Videos
-<!-- BEGIN YOUTUBE-CARDS -->
+### 💻 Featured YouTube Videos
 [![The Best & Most Crucial Topic To Check](https://ytcards.demolab.com/?id=CzRQ9mnmh44&title=The+Best+%26+Most+Crucial+Topic+To+Check&lang=en&timestamp=1693396800&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=0 "The Best & Most Crucial Topic To Check")](https://www.youtube.com/watch?v=F3JuuYuOUK4&list=PLpIURqn3jUUQv9OiT8Y-GX2YxLZ93rGG1&index=2&ab_channel=Flutterly)
 [![How I organise my life with Notion](https://ytcards.demolab.com/?id=orJOLdv907g&title=How+I+organise+my+life+with+Notion&lang=en&timestamp=1616324400&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1253 "How I organise my life with Notion")](https://youtu.be/orJOLdv907g?si=r31zLR2hnvJiw5p7)
 [![Riverpod Crash Course](https://ytcards.demolab.com/?id=4zDYqKEQcDQ&title=Riverpod+Crash+Course&lang=en&timestamp=1636628400&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=436 "Riverpod Crash Course")](https://youtu.be/4zDYqKEQcDQ?si=b7QYksN87h0wsGpQ)
 [![Flutter & Firebase by Net Ninja](https://ytcards.demolab.com/?id=sfA3NWDBPZ4&title=Flutter+and+Firebase+App+Tutorial&lang=en&timestamp=1638183600&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=380 "Tips and advice for Computer Science students")](https://youtu.be/sfA3NWDBPZ4?si=mjrsewEwBdhtvzDX)
 [![How I would learn to code (if I could start over)](https://ytcards.demolab.com/?id=kS03mP7p0ts&title=How+I+would+learn+to+code+(+if+I+could+start+over+)&lang=en&timestamp=1698663600&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=695 "How I would learn to code (if I could start over)")](https://youtu.be/kS03mP7p0ts?si=7UXbigeHmyTVGP60)
 [![BLoC Pattern in Flutter](https://ytcards.demolab.com/?id=QIn-_GA3_b0&title=BLoc+Pattern+in+Flutter&lang=en&timestamp=1690632000&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=860 "How to prep for CS? Do I need Maths?")](https://youtu.be/QIn-_GA3_b0?si=KGaQIzz_8E6JFYlD)
-<!-- END YOUTUBE-CARDS -->
