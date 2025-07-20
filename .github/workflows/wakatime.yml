@@ -11,29 +11,19 @@ jobs:
     name: Update Readme with WakaTime Stats
     runs-on: ubuntu-latest
     steps:
-      - uses: anmol098/waka-readme-stats@master
+      - uses: anmol098/waka-readme-stats@v2 # Changed to @v2 for stability
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          # The section where the stats will be inserted in your README
           SECTION_NAME: wakatime_stats
-          # Display total code time
           SHOW_TOTAL_CODE_TIME: true
-          # Display languages used
           SHOW_LANGUAGE: true
-          # Use 'all_time' to show cumulative stats, matching your example
           TIME_RANGE: all_time
-          # Choose a theme (optional, default is 'default')
           THEME: radical
-          # Set to true to hide the border around the stats
           HIDE_BORDER: false
-          # Adjust rows and columns to try and match your desired layout
-          SHOW_LINES_OF_CODE: false # Lines of code are not in your example image
-          # The following are advanced options you might need to tweak for exact formatting
-          # You might need to experiment with these, or accept a slightly different layout
-          # as multi-column specific formatting is hard via a general action.
-          # Example to try to get more items per line, though direct multi-column isn't guaranteed:
-          # LANG_COUNT: 20 # Increase if you want more languages
-          # CODE_TIME_FORMAT: "short" # or "long"
-          # SHOW_OTHER_STATS: false # Only show coding time and languages
-          # COMMIT_BY_TOP_LANGUAGE: true # if you want this
+          SHOW_LINES_OF_CODE: false
+          # You can uncomment and adjust these advanced options later if needed
+          # LANG_COUNT: 20
+          # CODE_TIME_FORMAT: "short"
+          # SHOW_OTHER_STATS: false
+          # COMMIT_BY_TOP_LANGUAGE: true
