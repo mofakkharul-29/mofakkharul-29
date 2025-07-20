@@ -11,6 +11,15 @@ jobs:
     name: Update Readme with WakaTime Stats
     runs-on: ubuntu-latest
     steps:
+      - name: Debug GH_TOKEN
+        run: |
+          if [ -z "${{ secrets.GH_TOKEN }}" ]; then
+            echo "Error: GH_TOKEN secret is empty or not found!"
+            exit 1 # Fail the workflow if the token is truly missing
+          else
+            echo "GH_TOKEN secret found and is not empty. Proceeding."
+          fi
+
       - uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
