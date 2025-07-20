@@ -11,7 +11,7 @@ jobs:
     name: Update Readme with WakaTime Stats
     runs-on: ubuntu-latest
     steps:
-      - uses: anmol098/waka-readme-stats@v2 # Changed to @v2 for stability
+      - uses: anmol098/waka-readme-stats@master # Changed to @v2 for stability
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
