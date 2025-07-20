@@ -1,0 +1,29 @@
+name: WakaTime Readme Stats
+
+on:
+  workflow_dispatch:
+  schedule:
+    # Runs every 24 hours (at midnight UTC)
+    - cron: '0 0 * * *'
+
+jobs:
+  update-readme:
+    name: Update Readme with WakaTime Stats
+    runs-on: ubuntu-latest
+    steps:
+      - uses: anmol098/waka-readme-stats@master # Use @master for the latest stable version
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          SECTION_NAME: wakatime_stats
+          SHOW_TOTAL_CODE_TIME: true
+          SHOW_LANGUAGE: true
+          TIME_RANGE: all_time # This is crucial for 'since Jul 3 2021' type data
+          THEME: radical
+          HIDE_BORDER: false
+          SHOW_LINES_OF_CODE: false
+          # Optional advanced settings (uncomment if you want to use them)
+          # LANG_COUNT: 20
+          # CODE_TIME_FORMAT: "short"
+          # SHOW_OTHER_STATS: false
+          # COMMIT_BY_TOP_LANGUAGE: true
