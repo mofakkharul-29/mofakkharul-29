@@ -11,7 +11,7 @@ jobs:
     name: Update Readme with WakaTime Stats
     runs-on: ubuntu-latest
     steps:
-      - uses: anmol098/waka-readme-stats@master # Changed to @v2 for stability
+      - uses: anmol098/waka-readme-stats@master # Ensure it's @master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
@@ -22,7 +22,7 @@ jobs:
           THEME: radical
           HIDE_BORDER: false
           SHOW_LINES_OF_CODE: false
-          # You can uncomment and adjust these advanced options later if needed
+          # Optional advanced settings (uncomment if you want to use them)
           # LANG_COUNT: 20
           # CODE_TIME_FORMAT: "short"
           # SHOW_OTHER_STATS: false
