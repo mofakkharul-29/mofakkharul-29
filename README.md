@@ -13,7 +13,7 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=mofakkharul-29&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mofakkharul-29&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-# ⏳ My Coding Activity
+# ⏳ Coding Activity
 <!-- WakaTime Stats - Automatically generated -->
 ![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=mofakkharul&layout=compact&theme=radical)
 ## 🏆 GitHub Trophies
