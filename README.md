@@ -15,7 +15,6 @@
 
 ![Programming Times](https://github-readme-stats.vercel.app/api/wakatime?username=mofakkharul&layout=compact&theme=radical&cache_seconds=1800)
 
-![WakaTime stats](https://wakatime.com/share/@mofakkharul/alltime.svg)
 
 
 ## 🏆 GitHub Trophies
