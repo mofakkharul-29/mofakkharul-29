@@ -3,7 +3,6 @@ name: WakaTime Readme Stats
 on:
   workflow_dispatch:
   schedule:
-    # Runs every 24 hours (at midnight UTC)
     - cron: '0 0 * * *'
 
 jobs:
@@ -13,15 +12,20 @@ jobs:
     permissions:
       contents: write
     steps:
+      # 1. This checks if your Token is working
       - name: Debug GH_TOKEN
         run: |
           if [ -z "${{ secrets.GH_TOKEN }}" ]; then
             echo "Error: GH_TOKEN secret is empty or not found!"
-            exit 1 # Fail the workflow if the token is truly missing
+            exit 1
           else
             echo "GH_TOKEN secret found and is not empty. Proceeding."
           fi
 
+      # 2. IMPORTANT: This line allows the action to access your files
+      - uses: actions/checkout@v3
+
+      # 3. This runs the WakaTime update
       - uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
@@ -29,17 +33,4 @@ jobs:
           SECTION_NAME: wakatime_stats
           SHOW_TOTAL_CODE_TIME: true
           SHOW_LANGUAGE: true
-          SHOW_LINES_OF_CODE: false # This input is still valid
-          # The following inputs are no longer valid and must be removed:
-          # TIME_RANGE: all_time
-          # THEME: radical
-          # HIDE_BORDER: false
-
-          # Optional advanced settings (uncomment if you want to use them, these are valid):
-          # LANG_COUNT: 20
-          # CODE_TIME_FORMAT: "short"
-          # SHOW_OTHER_STATS: false
-          # COMMIT_BY_TOP_LANGUAGE: true
-          # SHOW_PROFILE_VIEWS: true # To show profile views
-          # SHOW_DAYS_OF_WEEK: true # To show daily coding activity chart
-          # SHOW_LOC_CHART: true # To show lines of code chart
+          SHOW_LINES_OF_CODE: false
