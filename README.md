@@ -18,8 +18,6 @@
 <!--START_SECTION:wakatime_stats-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-225%20hrs%2046%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
-
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
@@ -32,45 +30,13 @@
  > 
 > 🔑 0 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                42 commits          █████░░░░░░░░░░░░░░░░░░░░   21.54 % 
-🌆 Daytime                76 commits          ██████████░░░░░░░░░░░░░░░   38.97 % 
-🌃 Evening                37 commits          █████░░░░░░░░░░░░░░░░░░░░   18.97 % 
-🌙 Night                  40 commits          █████░░░░░░░░░░░░░░░░░░░░   20.51 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   21 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.77 % 
-Tuesday                  33 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.92 % 
-Wednesday                22 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.28 % 
-Thursday                 27 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.85 % 
-Friday                   31 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.90 % 
-Saturday                 22 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.28 % 
-Sunday                   39 commits          █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
-```
-
-
 📊 **This Week I Spent My Time On** 
 
 ```text
-🕑︎ Time Zone: Asia/Dhaka
-
 💬 Programming Languages: 
 Dart                     9 hrs 26 mins       █████████████████████████   99.52 % 
 YAML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
 Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
-
-🔥 Editors: 
-VS Code                  9 hrs 29 mins       █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-venture                  9 hrs 29 mins       █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Windows                  9 hrs 29 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Dart** 
@@ -89,7 +55,7 @@ HTML                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/mofakkharul-29/mofakkharul-29/main/assets/bar_graph.png)
 
 
- Last Updated on 07/02/2026 05:15:34 UTC
+ Last Updated on 07/02/2026 05:26:51 UTC
 <!--END_SECTION:wakatime_stats-->
 
 ## 🏆 GitHub Trophies
