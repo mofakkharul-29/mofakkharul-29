@@ -15,6 +15,9 @@
 
 
 ## ⏰ Programming Times
+<!--START_SECTION:wakatime_stats-->
+<!--END_SECTION:wakatime_stats-->
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=mofakkharul-29&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
