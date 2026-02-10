@@ -61,7 +61,7 @@ HTML                     1 repo              ██░░░░░░░░░�
 <!--END_SECTION:wakatime_stats-->
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mofakkharul-29&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=mofakkharul-29&theme=radical&no-frame=false&no-bg=true&margin-w=4&row=2&column=3)
 
 
 ### ✍️ Random Dev Quote
