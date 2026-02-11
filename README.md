@@ -16,17 +16,17 @@
 
 ## ⏰ Programming Times
 <!--START_SECTION:wakatime_stats-->
-![Code Time](http://img.shields.io/badge/Code%20Time-228%20hrs%2048%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-230%20hrs%2029%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 15 Contributions in the Year 2026
+> 🏆 18 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 11 Public Repositories 
+> 📜 12 Public Repositories 
  > 
 > 🔑 0 Private Repositories 
  > 
@@ -34,20 +34,20 @@
 
 ```text
 💬 Programming Languages: 
-Dart                     9 hrs 47 mins       █████████████████████████   98.02 % 
-Kotlin                   5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
-YAML                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+Dart                     10 hrs 3 mins       █████████████████████████   98.08 % 
+Kotlin                   5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
+YAML                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
 JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 ```
 
 **I Mostly Code in Dart** 
 
 ```text
-Dart                     12 repos            ███████████████████░░░░░░   75.00 % 
-C++                      2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-JavaScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
-HTML                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
+Dart                     12 repos            ██████████████████░░░░░░░   70.59 % 
+C++                      3 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.65 % 
+JavaScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
 ```
 
 
@@ -57,7 +57,7 @@ HTML                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/mofakkharul-29/mofakkharul-29/main/assets/bar_graph.png)
 
 
- Last Updated on 10/02/2026 02:10:55 UTC
+ Last Updated on 11/02/2026 02:06:59 UTC
 <!--END_SECTION:wakatime_stats-->
 
 ## 🏆 GitHub Trophies
