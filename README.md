@@ -34,10 +34,10 @@
 
 ```text
 💬 Programming Languages: 
-Dart                     7 hrs 7 mins        ████████████████████████░   97.55 % 
-Kotlin                   5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
-YAML                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+Dart                     4 hrs 33 mins       ████████████████████████░   96.78 % 
+Kotlin                   5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
+YAML                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 ```
 
 **I Mostly Code in Dart** 
@@ -56,7 +56,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/mofakkharul-29/mofakkharul-29/main/assets/bar_graph.png)
 
 
- Last Updated on 12/02/2026 02:00:10 UTC
+ Last Updated on 13/02/2026 02:03:24 UTC
 <!--END_SECTION:wakatime_stats-->
 
 ## 🏆 GitHub Trophies
