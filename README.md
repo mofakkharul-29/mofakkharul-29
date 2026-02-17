@@ -16,13 +16,13 @@
 
 ## ⏰ Programming Times
 <!--START_SECTION:wakatime_stats-->
-![Code Time](http://img.shields.io/badge/Code%20Time-230%20hrs%2029%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-233%20hrs%203%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 18 Contributions in the Year 2026
+> 🏆 22 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -34,10 +34,9 @@
 
 ```text
 💬 Programming Languages: 
-Dart                     2 hrs 3 mins        ███████████████████████░░   93.14 % 
-Kotlin                   5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 % 
-YAML                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+Dart                     3 hrs 1 min         █████████████████████████   99.93 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 ```
 
 **I Mostly Code in Dart** 
@@ -56,7 +55,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/mofakkharul-29/mofakkharul-29/main/assets/bar_graph.png)
 
 
- Last Updated on 16/02/2026 01:58:27 UTC
+ Last Updated on 17/02/2026 01:56:10 UTC
 <!--END_SECTION:wakatime_stats-->
 
 ## 🏆 GitHub Trophies
