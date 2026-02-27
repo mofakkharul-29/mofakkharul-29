@@ -22,6 +22,7 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=mofakkharul-29&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mofakkharul-29&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=mofakkharul-29)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=mofakkharul-29&theme=radical&no-frame=false&no-bg=true&margin-w=4&row=2&column=3)
