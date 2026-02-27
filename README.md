@@ -1,4 +1,13 @@
-# 👋 Hi, I'm Mofakkharul !
+[![wakatime](https://wakatime.com/badge/user/mofakkharul.svg)](https://wakatime.com/@mofakkharul)
+
+# Hi there! I'm Mofakkharul Islam Selim 👋
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Flutter+Developer;Clean+UI+Design;Full+Featured+App+Building;Android+First" alt="Typing SVG" />
+</div>
+
+---
+
 🧑‍💻 Currently working on : A full-featured Flutter To-Do app (mobile-first), using Firebase.<br>👯 Open to collaborating on : Build open-source projects or full-stack apps with Flutter and Firebase.<br>🤝 Seeking help with : Advanced Flutter animations and platform-specific UI challenges.<br>🌱 Actively learning : Firebase integration, responsive UI design, and deploying multi-platform apps.<br>💬 Ask me about : Flutter, Firebase, Riverpod, or UI/UX best practices.<br>⚡ Fun fact : I love exploring clean, minimal UI designs and customizing Android launchers — it's my way of mixing creativity with tech!<br>🎓 Education : Studied Computer Science & Engineering at Primeasia University, Dhaka.
 
 
@@ -13,49 +22,6 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=mofakkharul-29&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mofakkharul-29&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-
-## ⏰ Programming Times
-<!--START_SECTION:wakatime_stats-->
-![Code Time](http://img.shields.io/badge/Code%20Time-261%20hrs%205%20mins-blue?style=flat)
-
-**🐱 My GitHub Data** 
-
-> 📦 ? Used in GitHub's Storage 
- > 
-> 🏆 42 Contributions in the Year 2026
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 11 Public Repositories 
- > 
-> 🔑 0 Private Repositories 
- > 
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Dart                     18 hrs 11 mins      █████████████████████████   99.99 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
-```
-
-**I Mostly Code in Dart** 
-
-```text
-Dart                     13 repos            ███████████████████░░░░░░   76.47 % 
-C++                      2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
-JavaScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
-HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
-```
-
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/mofakkharul-29/mofakkharul-29/main/assets/bar_graph.png)
-
-
- Last Updated on 27/02/2026 01:52:03 UTC
-<!--END_SECTION:wakatime_stats-->
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=mofakkharul-29&theme=radical&no-frame=false&no-bg=true&margin-w=4&row=2&column=3)
