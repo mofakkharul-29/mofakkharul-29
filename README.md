@@ -1,4 +1,4 @@
-[![wakatime](https://wakatime.com/badge/user/mofakkharul.svg)](https://wakatime.com/@mofakkharul)
+[![wakatime](https://wakatime.com/badge/user/eb8f289a-3908-404f-84ac-6f5ae818d91d.svg)](https://wakatime.com/@eb8f289a-3908-404f-84ac-6f5ae818d91d)
 
 # Hi there! I'm Mofakkharul Islam Selim 👋
 
@@ -7,7 +7,7 @@
 </div>
 
 ---
-
+### 🚀 About Me
 🧑‍💻 Currently working on : A full-featured Flutter To-Do app (mobile-first), using Firebase.<br>👯 Open to collaborating on : Build open-source projects or full-stack apps with Flutter and Firebase.<br>🤝 Seeking help with : Advanced Flutter animations and platform-specific UI challenges.<br>🌱 Actively learning : Firebase integration, responsive UI design, and deploying multi-platform apps.<br>💬 Ask me about : Flutter, Firebase, Riverpod, or UI/UX best practices.<br>⚡ Fun fact : I love exploring clean, minimal UI designs and customizing Android launchers — it's my way of mixing creativity with tech!<br>🎓 Education : Studied Computer Science & Engineering at Primeasia University, Dhaka.
 
 
@@ -26,6 +26,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=mofakkharul-29&theme=radical&no-frame=false&no-bg=true&margin-w=4&row=2&column=3)
 
+---
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
