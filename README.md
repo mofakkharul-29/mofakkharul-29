@@ -8,7 +8,9 @@
 
 ---
 ### 🚀 About Me
-🧑‍💻 **Currently working on :** A **full-featured** Flutter **To-Do app** (mobile-first), using **Firebase**.<br>👯 Open to collaborating on : Build open-source projects or full-stack apps with Flutter and Firebase.<br>🤝 Seeking help with : Advanced Flutter animations and platform-specific UI challenges.<br>🌱 **Actively learning :** **Firebase integration**, responsive UI design, and deploying **multi-platform** apps.<br>💬 Ask me about : **Flutter**, **Firebase**, **Riverpod**, or UI/UX best practices.<br>⚡ Fun fact : I love exploring clean, minimal UI designs and customizing Android launchers — it's my way of mixing creativity with tech!<br>🎓 Education : Studied Computer Science & Engineering at Primeasia University, Dhaka.
+🧑‍💻 **Currently working on :** A **full-featured** Flutter **News app named P-Paper** (mobile-first), using **Firebase**.<br>
+💼 **Worked last**: On A **To-Do-App** with **Firebase**, **Riverpod** and **Go_Router** (mobile first).<br>
+👯 Open to collaborating on : Build open-source projects or full-stack apps with Flutter and Firebase.<br>🤝 Seeking help with : Advanced Flutter animations and platform-specific UI challenges.<br>🌱 **Actively learning :** **Firebase integration**, responsive UI design, and deploying **multi-platform** apps.<br>💬 Ask me about : **Flutter**, **Firebase**, **Riverpod**, or UI/UX best practices.<br>⚡ Fun fact : I love exploring clean, minimal UI designs and customizing Android launchers — it's my way of mixing creativity with tech!<br>🎓 Education : Studied Computer Science & Engineering at Primeasia University, Dhaka.
 
 
 ## 🌐 Socials
