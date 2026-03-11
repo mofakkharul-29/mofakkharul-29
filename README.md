@@ -26,10 +26,9 @@
 
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mofakkharul-29&theme=radical)
+![](https://github-trophies.vercel.app/?username=mofakkharul-29&theme=radical&no-frame=true&margin-w=15)
 
 ---
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
